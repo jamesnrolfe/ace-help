@@ -7,4 +7,4 @@ order: 2
 
 TODO
 
-![Auto](../../assets/question.png)
+![Auto](../assets/question.png)
