@@ -5,13 +5,13 @@ project:
     - staticwebapp.config.json
 
 website:
-  title: "Ace Help"
+  title: "Ace Certificate Help"
   site-url: https://help.acecloud.cc
-  favicon: images/ace_logo.svg
+  favicon: assets/ace-logo-sq_icon.svg
   search: true
   page-navigation: true
   navbar:
-    logo: images/ace_logo.svg
+    logo: assets/ace-logo-115x86.png
     left:
       - text: FireVerify
         href: fireverify/index.md
