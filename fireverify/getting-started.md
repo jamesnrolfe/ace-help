@@ -9,9 +9,8 @@ Sign in is through the microsoft account that you used to get to the Team. The f
 
 ## What if my email is not recognised
 
-Contact melinda.trufasu@aceconstructions.co.uk with the email that you are attempting to use. You will then be added to the Team. You will get an invite to join the Team channel, and from there you can proceed
-
+Email [Melinda](mailto:melinda.trufasu@aceconstructions.co.uk) with the email that you are attempting to use. You will then be added to the Team. You will get an invite to join the Team channel, and from there you can proceed
 
 ## Getting Access for a Colleague
 
-To allow access for a colleague, contact melinda.trufasu@aceconstructions.co.uk to request access to the Teams site.
+To allow access for a colleague, contact [Melinda](mailto:melinda.trufasu@aceconstructions.co.uk) to request access to the Teams site.
