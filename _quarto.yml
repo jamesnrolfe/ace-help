@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - staticwebapp.config.json
+
+website:
+  title: "Ace Help"
+  site-url: https://help.acecloud.cc
+  favicon: images/ace_logo.svg
+  search: true
+  page-navigation: true
+  navbar:
+    logo: images/ace_logo.svg
+    left:
+      - text: FireVerify
+        href: fireverify/index.md
+  sidebar:
+    - id: fireverify
+      title: FireVerify
+      style: docked
+      contents: 
+        - auto: fireverify
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true
